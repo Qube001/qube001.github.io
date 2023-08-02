@@ -1,0 +1,7 @@
+/**
+CREATE TABLE TO STORE THE URL's
+*/
+CREATE TABLE `urls`(
+    url VARCHAR(500) NOT NULL,
+    key VARCHAR(10) NOT NULL
+)
